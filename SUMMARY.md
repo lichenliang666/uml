@@ -18,8 +18,8 @@
 * [行为图](hang-wei-tu-1/README.md)
   * [用例图](hang-wei-tu-1/yong-li-tu.md)
   * [活动图 Activity Diagrams](hang-wei-tu-1/huo-dong-tu-activity-diagrams/README.md)
-    * [行为 action](hang-wei-tu-1/huo-dong-tu-activity-diagrams/dong-zuo-action.md)
-* [控制节点](kong-zhi-jie-dian.md)
+    * [动作 action](hang-wei-tu-1/huo-dong-tu-activity-diagrams/dong-zuo-action.md)
+    * [控制节点 Control Nodes](hang-wei-tu-1/huo-dong-tu-activity-diagrams/kong-zhi-jie-dian.md)
 * [UML 工具](untitled-1.md)
 * [参考文献](can-kao-wen-xian.md)
 
